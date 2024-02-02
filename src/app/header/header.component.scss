@@ -1,0 +1,26 @@
+.nav-wrap {
+  padding-top:25px;
+  padding-bottom:25px ;
+  border-bottom:1px solid #eee ;
+}
+.logo{
+  font-size: 20px;
+  font-weight: bold;
+  color: green;
+}
+.link {
+  margin: 0;
+  li{
+    list-style: none;
+    font-weight: bold;
+    text-align: right;
+    padding-left: 20px;
+    a {
+      cursor: pointer;
+    }
+  }
+}
+.nav-text {
+  text-decoration: none; 
+  color: inherit;
+}
